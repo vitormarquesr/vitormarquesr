@@ -1,3 +1,5 @@
+<img src="https://github.com/vitormarquesr/vitormarquesr/blob/main/Banner.png" alt="Banner with name">
+
 - 👋 Hi, I’m Vitor
 - 👀 I’m interested in Mathematics
 - 🌱 I’m currently learning Machine Learning
