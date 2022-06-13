@@ -1,11 +1,48 @@
-<img src="https://github.com/vitormarquesr/vitormarquesr/blob/main/Banner.png" alt="Banner with name">
+<div align="center">
+<img src="https://github.com/vitormarquesr/vitormarquesr/blob/main/Banner.png" align="center" style="width: 70%" />
+</div>  
+  
 
-- 👋 Hi, I’m Vitor
-- 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to build my first Machine Learning project
-- ⚡ Fun fact: My favorite TV show is one called The Newsroom
-<!---
-vitormarquesr/vitormarquesr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <div align="left">I'm Vitor, an Undergraduate statistics student</div>  
+  
+
+- 🔭 I’m currently working on my first Machine Learning project  
+  
+
+- 🌱 I’m currently learning Machine Learning  
+  
+
+- ⚡ Fun fact: My favorite TV show is one called "The Newsroom"  
+  
+
+<br/>  
+
+
+## My Skill Set  
+
+* **Daily use**:
+  + **Python**: Numpy, Pandas, Matplotlib, Seaborn
+  + **R**: tidyverse
+  + **Git and Github**
+* **Basics**:
+  + **Microsoft Excel**
+  + **Linux**
+
+## Awards
+
+* **Gold Medal:** Brazilian Physiscs Olympiad 2020
+* **Silver Medal:** Mathematical Kangaroo competition 2020
+* **Silver Medal:** São Paulo's Physics Olympiad 2019
+* **Silver Medal:** Brazilian Mathematics Olympiad for Public and Private schools 2019
+* **Bronze Medal:** Mathematical Kangaroo competition 2019
+
+
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitormarquesr&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarquesr&hide_border=true&layout=compact" align="center" />
+</div>  
+
+
+
+
